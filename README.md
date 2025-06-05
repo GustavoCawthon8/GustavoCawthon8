@@ -6,8 +6,7 @@ Atualmente, estou focado em:
 
 - 🚀 Criar apis com **NodeJs e Express**
 - 🌐 Trabalhar com **Node.Js**, **Express**, **React.Js** e **HTML/CSS/EcmaScript**
-- 🧠 Estudar **astrofísica quântica** por conta própria
-- 📚 Em busca do projeto Inexplicável.
+- 📚 Sempre buscando conhecimento
 
 ## 💻 Tecnologias que uso
 

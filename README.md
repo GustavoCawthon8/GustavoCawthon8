@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/gu-cawthon/gu-cawthon/blob/main/chart.svg" alt="Distribuição dos repositórios" width="400"/>
+  <img src="https://github.com/GustavoCawthon8/blob/main/chart.svg" alt="Distribuição dos repositórios" width="400"/>
 </p>
 
 ---
